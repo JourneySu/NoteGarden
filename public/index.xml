@@ -1,17 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>LoveIt</title>
-        <link>https://example.com/</link>
-        <description>Hugo theme - LoveIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 11 Mar 2023 19:20:37 &#43;0800</lastBuildDate>
-            <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>My First Post</title>
-    <link>https://example.com/my-first-post/</link>
-    <pubDate>Sat, 11 Mar 2023 19:20:37 &#43;0800</pubDate>
-    <author>xxxx</author>
-    <guid>https://example.com/my-first-post/</guid>
-    <description><![CDATA[]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awesome Hugo blog</title>
+    <link>https://hugo-blog-awesome.netlify.app/</link>
+    <description>Recent content on Awesome Hugo blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://hugo-blog-awesome.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
 </rss>
